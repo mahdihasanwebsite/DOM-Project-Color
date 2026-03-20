@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.meno ul {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.meno li {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(240, 5, 5);
+    box-shadow: 10px 10px 10px #575454 ;
+    cursor: pointer;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+
+ .meno .red {
+    background-color: rgb(255, 255, 254);
+}
+.meno .blue {
+    background-color: rgb(255, 255, 255);
+}
+
+.meno .green {
+    background-color: rgb(255, 255, 255);
+}
+
+.meno .black {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+ .meno .red:hover {
+    background-color: rgb(251, 255, 0);
+}
+.meno .blue:hover {
+    background-color: rgb(231, 11, 202);
+}
+
+.meno .green:hover {
+    background-color: rgb(241, 167, 7);
+}
+
+.meno .black:hover {
+    background-color: rgb(10, 150, 231);
+}
+
+
